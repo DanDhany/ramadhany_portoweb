@@ -78,7 +78,7 @@
 					<div class="slide">
 						<div class="slide__img" style="background-image: url(img/22.jpg);"></div>
 						<h5 class="slide__title">Mari kerja sama</h5></br></br>
-						<a class="slide__link">Klik salah satu kontak dibawah untuk menghubungi saya</a>
+						<a class="slide__link">Klik salah satu kontak dibawah untuk menghubungi saya</a></br></br>
 						<p class="slide__desc2"><a href="https://wa.me/6285155336566">Whatsapp | </a><a href="https://www.instagram.com/rino.ramadhani/">Instagram | </a><a href=mailto:"rino.ramadhani@gmail.com">Gmail | </a><a href="https://www.linkedin.com/in/ramadhany-krismaliq-sjamdra-274259129/">LinkedIn</a></p>
 						<p class="slide__desc3"></p>
 						<p class="slide__desc4"></p>
