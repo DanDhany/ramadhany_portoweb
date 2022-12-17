@@ -79,10 +79,10 @@
 						<div class="slide__img" style="background-image: url(img/22.jpg);"></div>
 						<h5 class="slide__title">Mari kerja sama</h5></br></br>
 						<a class="slide__link">Klik salah satu kontak dibawah untuk menghubungi saya</a>
-						<p class="slide__desc2"><a class="github" href="https://wa.me/6285155336566">Whatsapp</a></p>
-						<p class="slide__desc3"><a class="github" href="https://www.instagram.com/rino.ramadhani/">Instagram</a></p>
-						<p class="slide__desc4"><a class="github" href=mailto:"rino.ramadhani@gmail.com">Gmail</a></p>
-						<p class="slide__desc"><a class="github" href="https://www.linkedin.com/in/ramadhany-krismaliq-sjamdra-274259129/">LinkedIn</a></p>
+						<p class="slide__desc2"><a class="github" href="https://wa.me/6285155336566">Whatsapp | </a><a class="github" href="https://www.instagram.com/rino.ramadhani/">Instagram | </a><a class="github" href=mailto:"rino.ramadhani@gmail.com">Gmail | </a><a class="github" href="https://www.linkedin.com/in/ramadhany-krismaliq-sjamdra-274259129/">LinkedIn</a></p>
+						<p class="slide__desc3"></p>
+						<p class="slide__desc4"></p>
+						<p class="slide__desc"></p>
 						
 					</div>
 				</div>
